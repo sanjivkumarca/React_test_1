@@ -1,0 +1,24 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "create-react-app": "latest",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-geolocated": "2.4.0",
+    "react-geolocation": "1.0.3",
+    "react-google-maps": "latest",
+    "react-scripts": "1.1.4",
+    "recompose": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
